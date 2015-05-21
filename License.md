@@ -195,7 +195,7 @@ To do so, attach the following notices to the program. It is safest to attach th
 
     SmIntegration
     
-    This is an example to show how to use SmIntegration API service which is used for transferring sales info from Web (e-commerce site) or desktop applications.
+    This is an example to show how to use SmIntegration API service which is used for transferring sales info from Web (e-commerce site) or desktop applications to StockMount Professional Integration Services.
     
     Copyright (C) 2015 StockMount
 
