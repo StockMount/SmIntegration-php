@@ -227,6 +227,7 @@ Yeni bir program geliştirdiyseniz ve programı en fazla yararlanılabilecek bi�
 Bunu yapmak için, aşağıdaki uyarıları programınıza iliştirin. Bunun en güvenli yolu her bir kaynak kodun başına teminattan vazgeçildiğini en etkili olarak gösteren biçimde yerleştirmektir; ve her bir dosya en azından “telif hakkı” satırını ve uyarının tamamının bulunduğu yeri gösteren bir belirteç içermelidir.
 
 SmIntegration
+
 Web (e-ticaret sitesi) veya masaüstü (ticari paket program vb) uygulamalarında gerçekleşen satışların StockMount Profösyonel Entegrasyon Yöneticisine aktarılmasına olanak sağlayan API servisin nasıl kullanılacağına dair örnek programdır.
 
 Copyright (C) 2015 StockMount
