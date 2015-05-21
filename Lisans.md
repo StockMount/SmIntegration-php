@@ -228,7 +228,7 @@ Bunu yapmak için, aşağıdaki uyarıları programınıza iliştirin. Bunun en 
 
 SmIntegration
 
-Web (e-ticaret sitesi) veya masaüstü (ticari paket program vb) uygulamalarında gerçekleşen satışların StockMount Profösyonel Entegrasyon Yöneticisine aktarılmasına olanak sağlayan API servisin nasıl kullanılacağına dair örnek programdır.
+Web (e-ticaret sitesi) veya masaüstü (ticari paket program vb) uygulamalarında gerçekleşen satışların StockMount Profesyonel Entegrasyon Yöneticisine aktarılmasına olanak sağlayan API servisin nasıl kullanılacağına dair örnek programdır.
 
 Copyright (C) 2015 StockMount
 
