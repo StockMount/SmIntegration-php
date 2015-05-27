@@ -1,8 +1,8 @@
 ![StockMount Logo](StockMount-Logo.png?raw=true "StockMount Logo")
-# SmIntegration-dotnet
-SmIntegration Sample C#.NET
+# SmIntegration-php
+SmIntegration Sample Php
 # SmIntegration Nedir?
-SmIntegration, StockMount Profesyonel Entegrasyon Yönetici programına yine bu programın entegre olduğu sanal pazar yerleri ve ticaret kanalları haricinde satış yapılan veya sipariş alınan masa üstü uygulamalar (ticari paket programlar -Logo Go, Logo Tiger, Netsis, Likom, Mikro, Zirve, Turquaz, QRenga vb-) ile web sitelerinden yapılan satışların entegre edilmesini sağlayan bir Web API'dir. SmIntegration-dotnet projesi ise bu Web API için hazırlanmış bir örnek koddur.
+SmIntegration, StockMount Profesyonel Entegrasyon Yönetici programına yine bu programın entegre olduğu sanal pazar yerleri ve ticaret kanalları haricinde satış yapılan veya sipariş alınan masa üstü uygulamalar (ticari paket programlar -Logo Go, Logo Tiger, Netsis, Likom, Mikro, Zirve, Turquaz, QRenga vb-) ile web sitelerinden yapılan satışların entegre edilmesini sağlayan bir Web API'dir. SmIntegration-php projesi ise bu Web API için hazırlanmış bir örnek koddur.
 # StockMount Nedir?
 StockMount, sanal pazar yerlerinde ve e-ticaret sistelerinde (GittiGidiyor, N11, e-PttAvm, Sahibinden, OpenCart, Magento vb.) satış yapan kişi, kurum ve kuruluşlar için ürünlerinin otomatik olarak listelenmesini, fiyatlarının, miktarlarının ve içerik bilgilerinin güncellenmesini, satış koşullarının (genel kar oranları, kategori kar oranı, kargo ücretleri vb.) belirlenmesi ile satışlarının takibinin (faturalandırma, kargo takip numarasının girilmesi, kargo takip numarasının sms (kısa mesaj) olarak gönderilmesi vb.) ve sanal pazar yerleri üzerinde olan mesajlaşma işlemlerinin tek bir panel üzerine çekip kolayca yönetilmesini sağlayan bir bulut uygulamasıdır. Uygulamanın kurumsal sitesine [www.stockmount.com](http://www.stockmount.com) adresinden ulaşılabilir.
 # SmIntegration için Gerekenler
