@@ -3,7 +3,7 @@
 	{
 		include("Class/SmIntegrationClass.php");
 		$StockMount = new SmIntegration();
-		$StockMount->SmServiceLink = "https://smintegration.stockmount.com";
+		$StockMount->SmServiceLink = "https://out.stockmount.com";
 		$StockMount->ApiKey = "Set Api Key";
 		$StockMount->ApiPassword ="Set Api Password";
 		$StockMount->Culture ="en-US"; // en-US,tr-TR

@@ -8,7 +8,7 @@ StockMount, sanal pazar yerlerinde ve e-ticaret sistelerinde (GittiGidiyor, N11,
 # SmIntegration için Gerekenler
 SmIntegration'ı kullanabilmek için StockMount üyesi olunması gereklidir. Ücretli ve ücretsiz olmak üzere 2 farklı üyelik tipi vardır. Ücretsiz üyelik tipi SmIntegration özelliğini desteklememektedir. Bu özelliği kullanabilmek için ücretli üyelik seçilip dükkan tipi olarak da StockMount seçilmelidir ya da ücretsiz üyelikte uygulama için satın alma özelliği ile ilave bir StockMount dükkanı eklenerek bu özellikten yararlanılabilir. StockMount dükkan tipine sahip olan kullanıcılar Entegrasyon menüsü altında Api Bilgileri kısmından SmIntegration için gerekli olan ApiKey ve ApiPassword bilgilerine ulaşabilirler. [https://panel.stockmount.com/Integration/ApiDetails](https://panel.stockmount.com/Integration/ApiDetails) adresinden de hızlıca erişebilirsiniz.
 # SmIntegration Servis Adresi
-SmIntegration Servis adresine bağlanmak için şu adres kullanılabilir. [https://smintegration.stockmount.com/](https://smintegration.stockmount.com/)
+SmIntegration Servis adresine bağlanmak için şu adres kullanılabilir. [https://out.stockmount.com/](https://out.stockmount.com/)
 # SmIntegration Dokümantasyon
 Projede bulanan Doc klasörünün altında bu servisle ilgili kullanım dosyası yer almaktadır.
 # Lisans Bilgileri
